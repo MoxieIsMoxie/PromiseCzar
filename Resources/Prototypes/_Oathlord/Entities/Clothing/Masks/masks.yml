@@ -129,7 +129,7 @@
   categories: [ ForkFiltered ]
   components:
   - type: Sprite
-    sprite: _Oathlord/Clothing/Mask/silkveil_t.rsi
+    sprite: _Oathlord/Clothing/Mask/silkveil_t.rs
   - type: Clothing
     sprite: _Oathlord/Clothing/Mask/silkveil_t.rsi
 
