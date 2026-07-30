@@ -121,6 +121,7 @@
   - type: Clothing
     sprite: _Oathlord/Clothing/Mask/silkveil.rsi
 
+
 - type: entity
   parent: ClothingMaskSilkVeil
   id: ClothingMaskSilkVeilToggled
